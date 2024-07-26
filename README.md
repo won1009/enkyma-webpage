@@ -2,10 +2,17 @@
 2024 7~8월 it기업 (디자인 설계, 제품 제조) 기업의 웹페이지 제작을 담당하였습니다. 
 
 
+
+
+
 ENKYMA RENEWAL PROJECT
 
 ENKYMA 리뉴얼 웹페이지 팀 프로젝트
 기획, 디자인, 메인페이지 UI 을 구현
+
+
+
+
 
 📁 프로젝트 기간
 2024.07.24 ~ 2024.08.7 
@@ -13,16 +20,23 @@ ENKYMA 리뉴얼 웹페이지 팀 프로젝트
 link
 enkyma3.mycafe24.com
 
+
+
 💻 Languages
 
 html
+
+
 
 ⚒️ Tools
 
 wordpress
 
 
+
+
 디자인 시안
+
 
 
  메인 화면 

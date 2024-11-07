@@ -18,9 +18,8 @@ ENKYMA 리뉴얼 웹페이지 팀 프로젝트
 2024.07.24 ~ 2024.08.31
 
 ### 회사 홈페이지 link
-[enkyma3.mycafe24.com](enkyma3.mycafe24.com)
 
-
+https://enkyma.com/
 
 
 ### 💻 Languages

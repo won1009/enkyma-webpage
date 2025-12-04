@@ -16,11 +16,6 @@
 | 🌐 회사 홈페이지 | [https://enkyma.com](https://enkyma.com/) |
 | 💻 사용 언어 | HTML / CSS / JavaScript |
 | 📌 프로젝트 개요 | 2024년 7~8월 동안 IT 기업(디자인 설계, 제품 제조)의 웹페이지 제작을 담당 |
-| 🎯 주요 페이지 구성 | ✅ **메인 화면**  • 기업 정보  • 연혁  • 지도 (Map)- **사업 분야 페이지** 
- • Product Development Process 
- • Mechanical Design
- • PCB Development- **포트폴리오 페이지**  
- 전체(all) + Portfolio A / B / C로 영역 구분 배치 |
 
 
 ### 📁 프로젝트 기간

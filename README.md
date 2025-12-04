@@ -7,11 +7,20 @@
 
 
 
-ENKYMA 리뉴얼 웹페이지 팀 프로젝트
-기획, 디자인, 메인페이지 UI 을 구현
 
 
-
+| 📱 프로젝트명 | ENKYMA Renewal Project – 기업 웹페이지 리뉴얼 |
+| --- | --- |
+| 📅 프로젝트 기간 | 2024.07.24 ~ 2024.08.31 |
+| 👥 참여 역할 |  팀 프로젝트 기획- 디자인 설계- 메인페이지 UI 구현 |
+| 🌐 회사 홈페이지 | [https://enkyma.com](https://enkyma.com/) |
+| 💻 사용 언어 | HTML / CSS / JavaScript |
+| 📌 프로젝트 개요 | 2024년 7~8월 동안 IT 기업(디자인 설계, 제품 제조)의 웹페이지 제작을 담당 |
+| 🎯 주요 페이지 구성 | ✅ **메인 화면**  • 기업 정보  • 연혁  • 지도 (Map)- **사업 분야 페이지** 
+ • Product Development Process 
+ • Mechanical Design
+ • PCB Development- **포트폴리오 페이지**  
+ 전체(all) + Portfolio A / B / C로 영역 구분 배치 |
 
 
 ### 📁 프로젝트 기간
